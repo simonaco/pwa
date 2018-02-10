@@ -1,5 +1,6 @@
 {
   "index": "/index.html",
+  "start_url": "/index.html",
   "assetGroups": [
     {
       "name": "app",
