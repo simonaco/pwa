@@ -1,4 +1,4 @@
-FROM ehekatl/docker-nginx-http2
+FROM nginx:alpine
 LABEL author="Simona Cotin"
 COPY ./dist /usr/share/nginx/html
 EXPOSE 80 443
